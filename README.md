@@ -31,6 +31,11 @@ Spotify has multiple servers spread over the globe. These servers store the diff
 
 If a user wants to listen to music, Spotify will generate a playlist (it could be random or according to user preferences). One thing is important for this generated playlist is that the user can only move to the next song or previous song. 
 
+Spotify used to generate random playlists for its free users using: 
+
+1. Arrays
+2. Linked Lists
+
 The songs are stored in several Spotify servers, instead of sending the whole song to the user’s device, its address is sent.
 
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/playlist-generator-for-Spotify/blob/main/images/img-4.png" />
